@@ -40,7 +40,7 @@ while (true && inputNumber != number)
             }
             else
             {
-                // Counting user's guesses
+                // Increasing user's guesses if user guesses correct number
                 count++;
 
                 // Displaying a congratulatory message if the user guesses the number correctly
